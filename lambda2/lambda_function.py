@@ -16,8 +16,8 @@ headers = { "Content-Type": "application/json" }
 ip_pattern = re.compile('(\d+\.\d+\.\d+\.\d+)')
 time_pattern = re.compile('\[(\d+\/\w\w\w\/\d\d\d\d:\d\d:\d\d:\d\d\s-\d\d\d\d)\]')
 message_pattern = re.compile('\"(.+)\"')
-akey = "AKIA2WJC54562OC5MSVK"
-skey = "TjZcfEwS9bYha/YQ2UQVgoDLXHD1QoMEFy2e0S82"
+akey = ""
+skey = ""
 
 
 # Query Elastic search and Dynamodb
